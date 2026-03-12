@@ -141,10 +141,4 @@ cd student-management-system
 
 本项目基于 [MIT License](https://www.google.com/search?q=LICENSE) 协议开源。欢迎广大学者、工程师参考交流，也期待你的 Fork 与 PR！
 
-```
 
-***
-
-这份 README 将 Qt 引擎放到了绝对核心的位置，并将你代码中的高级设计模式（MVC模型、代理委托 Delegate、线程池、异步 I/O）全部提炼了出来。配合项目目录里详细的模块批注，任何有经验的代码审查者都能瞬间捕捉到这个工程的含金量。建议尽快补全界面截图，项目的“门面”就彻底完美了！
-
-```
