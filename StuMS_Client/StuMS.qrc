@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/login.png</file>
+        <file>images/add.png</file>
+        <file>images/addtoexport.png</file>
+        <file>images/del.png</file>
+        <file>images/query.png</file>
+        <file>images/update.png</file>
+        <file>images/export.png</file>
+        <file>images/folder.png</file>
+    </qresource>
+</RCC>
