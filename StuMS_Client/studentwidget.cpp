@@ -447,8 +447,8 @@ void StudentWidget::onOpenAI() {
     // =======================================================
     // ⬇️⬇️⬇️ 请在此填入你的 API KEY (双 Key 模式) ⬇️⬇️⬇️
     // =======================================================
-    dialog->setDeepSeekApiKey("sk-b58e239eca4c4bbab17ceb5485db5d53"); // 大脑 (DeepSeek)
-    dialog->setSttApiKey("sk-qstdeeafckeserwubcqpevyklxvaxcuwqbcqzstyoswpsmjp");      // 耳朵/嘴巴 (硅基流动)
+    dialog->setDeepSeekApiKey(""); // 大脑 (DeepSeek)
+    dialog->setSttApiKey("");      // 耳朵/嘴巴 (硅基流动)
     // =======================================================
 
     dialog->setContextData(getAllTableData());
